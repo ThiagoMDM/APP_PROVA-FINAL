@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       // Remove o banner de depuração
       debugShowCheckedModeBanner: false,
-      title: 'Prova final',
+      title: 'Prova final APP',
       home: HomePage(),
     );
   }
